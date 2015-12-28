@@ -1,0 +1,17 @@
+{
+  "name": "drupal/yaml",
+  "type": "drupal-module",
+  "description": "YAML element",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "http://drupal.org/project/yaml",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://github.com/caxy/yaml-module/issues",
+    "source": "https://github.com/caxy/yaml-module"
+  },
+  "require": {
+    "drupal/core": "8.0.*",
+    "symfony/yaml": "2.7.*"
+  }
+}
